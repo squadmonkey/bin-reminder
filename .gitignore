@@ -1,0 +1,9 @@
+# Sensitive config (use config.example.py as template)
+config.py
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
